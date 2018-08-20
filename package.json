@@ -1,6 +1,6 @@
 {
   "name": "glsl-hue-filter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "filter specific hue by range, and make other color to gray",
   "main": "index.js",
   "scripts": {

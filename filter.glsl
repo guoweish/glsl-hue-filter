@@ -1,6 +1,6 @@
 
 // Author : guowei
-// https://github.com/guoweish/glsl-noise-simplex
+// https://github.com/guoweish/glsl-hue-filter
 
 vec3 rgb2hsl(vec3 color) {
   vec3 hsl; // init to 0 to avoid warnings ? (and reverse if + remove first part)
