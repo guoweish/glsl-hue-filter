@@ -1,0 +1,26 @@
+{
+  "name": "glsl-hue-filter",
+  "version": "0.0.1",
+  "description": "filter specific hue by range, and make other color to gray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guoweish/glsl-hue-filter.git"
+  },
+  "keywords": [
+    "glsl",
+    "hue",
+    "shader",
+    "filter",
+    "webgl",
+    "glslify"
+  ],
+  "author": "guowei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoweish/glsl-hue-filter/issues"
+  }
+}
